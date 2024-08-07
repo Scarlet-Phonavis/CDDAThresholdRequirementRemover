@@ -1,0 +1,72 @@
+[
+    {
+        "type": "mutation",
+        "id": "HOMULLUS_SKIN_3",
+        "copy-from": "HOMULLUS_SKIN_3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "HOMULLUS_ROAD_TRANSLOCATION",
+        "copy-from": "HOMULLUS_ROAD_TRANSLOCATION",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "HOMULLUS_CBM_MANA_2",
+        "copy-from": "HOMULLUS_CBM_MANA_2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "HOMULLUS_ARMOR_MULT_2",
+        "copy-from": "HOMULLUS_ARMOR_MULT_2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "HOMULLUS_DURABILITY_MULT_2",
+        "copy-from": "HOMULLUS_DURABILITY_MULT_2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "HOMULLUS_GAIN_BIONIC_POWER_AND_MANA",
+        "copy-from": "HOMULLUS_GAIN_BIONIC_POWER_AND_MANA",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "HOMULLUS_CRAFTING_BONUS_3",
+        "copy-from": "HOMULLUS_CRAFTING_BONUS_3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "HOMULLUS_EXPANDED_MUTATIONS",
+        "copy-from": "HOMULLUS_EXPANDED_MUTATIONS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "HOMULLUS_THE_HUNTER2",
+        "copy-from": "HOMULLUS_THE_HUNTER2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "HOMULLUS_DOLL_FORM",
+        "copy-from": "HOMULLUS_DOLL_FORM",
+        "threshreq": [],
+        "threshold": false
+    }
+]

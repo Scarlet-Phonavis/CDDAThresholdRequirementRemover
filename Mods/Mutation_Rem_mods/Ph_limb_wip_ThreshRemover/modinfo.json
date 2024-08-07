@@ -1,0 +1,16 @@
+[
+    {
+        "type": "MOD_INFO",
+        "id": "Ph_limb_wip_ThreshRemover",
+        "name": "ThreshRem_Work in Progress Limb Stuff",
+        "authors": [
+            "Scarlet",
+            "PythonInterpreter"
+        ],
+        "description": "Generated via script on 2024-08-04 16:57:04.150937 for mod Work in Progress Limb Stuff",
+        "category": "rebalance",
+        "dependencies": [
+            "limb_wip"
+        ]
+    }
+]

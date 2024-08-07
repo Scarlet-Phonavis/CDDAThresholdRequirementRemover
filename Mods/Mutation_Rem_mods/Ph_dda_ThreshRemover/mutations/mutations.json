@@ -1,0 +1,1402 @@
+[
+    {
+        "type": "mutation",
+        "id": "BIOLUM3",
+        "copy-from": "BIOLUM3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ECHOLOCATION",
+        "copy-from": "ECHOLOCATION",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "FEYHEARING",
+        "copy-from": "FEYHEARING",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "GOODCARDIO2",
+        "copy-from": "GOODCARDIO2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "EASYSLEEPER2",
+        "copy-from": "EASYSLEEPER2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "DIRTSLEEPER",
+        "copy-from": "DIRTSLEEPER",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "WATERSLEEPER",
+        "copy-from": "WATERSLEEPER",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "VOMITSTOMACH",
+        "copy-from": "VOMITSTOMACH",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ADRENALINE",
+        "copy-from": "ADRENALINE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "PROJUNK2",
+        "copy-from": "PROJUNK2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ELFA_NV",
+        "copy-from": "ELFA_NV",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ELFA_FNV",
+        "copy-from": "ELFA_FNV",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "BIRD_EYE",
+        "copy-from": "BIRD_EYE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "INFRARED",
+        "copy-from": "INFRARED",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "REGEN",
+        "copy-from": "REGEN",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "REGEN_LIZ",
+        "copy-from": "REGEN_LIZ",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "WAKEFUL2",
+        "copy-from": "WAKEFUL2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "WAKEFUL3",
+        "copy-from": "WAKEFUL3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "INCISORS",
+        "copy-from": "INCISORS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "FROG_EYES",
+        "copy-from": "FROG_EYES",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "GILLS",
+        "copy-from": "GILLS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "GILLS_CEPH",
+        "copy-from": "GILLS_CEPH",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "M_SKIN",
+        "copy-from": "M_SKIN",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "M_SKIN2",
+        "copy-from": "M_SKIN2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "M_SKIN3",
+        "copy-from": "M_SKIN3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THICK_SCALES",
+        "copy-from": "THICK_SCALES",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SLEEK_SCALES",
+        "copy-from": "SLEEK_SCALES",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "DOWN",
+        "copy-from": "DOWN",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "PATCHSKIN3",
+        "copy-from": "PATCHSKIN3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "CHITIN_FUR3",
+        "copy-from": "CHITIN_FUR3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "CF_HAIR",
+        "copy-from": "CF_HAIR",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "CRUSTACEAN_CLAW",
+        "copy-from": "CRUSTACEAN_CLAW",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "BARK2_a",
+        "copy-from": "BARK2_a",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "LEAVES2",
+        "copy-from": "LEAVES2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "LEAVES3",
+        "copy-from": "LEAVES3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "TRANSPIRATION",
+        "copy-from": "TRANSPIRATION",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "FLOWERS",
+        "copy-from": "FLOWERS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ROSEBUDS",
+        "copy-from": "ROSEBUDS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "M_SPORES",
+        "copy-from": "M_SPORES",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "M_FERTILE",
+        "copy-from": "M_FERTILE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "M_BLOSSOMS",
+        "copy-from": "M_BLOSSOMS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "M_BLOOM",
+        "copy-from": "M_BLOOM",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "M_PROVENANCE",
+        "copy-from": "M_PROVENANCE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "CLAWS_ST",
+        "copy-from": "CLAWS_ST",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "CLAWS_TENTACLE",
+        "copy-from": "CLAWS_TENTACLE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "INK_GLANDS",
+        "copy-from": "INK_GLANDS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "BOMBADIER_BLAST",
+        "copy-from": "BOMBADIER_BLAST",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "PHEROMONE_INSECT",
+        "copy-from": "PHEROMONE_INSECT",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "PHEROMONE_AMPHIBIAN",
+        "copy-from": "PHEROMONE_AMPHIBIAN",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "PHEROMONE_MAMMAL",
+        "copy-from": "PHEROMONE_MAMMAL",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "M_IMMUNE",
+        "copy-from": "M_IMMUNE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "POISONOUS2",
+        "copy-from": "POISONOUS2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "BENDY1",
+        "copy-from": "BENDY1",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "BENDY2",
+        "copy-from": "BENDY2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "BENDY3",
+        "copy-from": "BENDY3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "GASTROPOD_EXTREMITY2",
+        "copy-from": "GASTROPOD_EXTREMITY2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "GASTROPOD_EXTREMITY3",
+        "copy-from": "GASTROPOD_EXTREMITY3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "LEGS_BAT",
+        "copy-from": "LEGS_BAT",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "HOOKED_TOES",
+        "copy-from": "HOOKED_TOES",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "FELINE_LEAP",
+        "copy-from": "FELINE_LEAP",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "LEAPING_LEGS",
+        "copy-from": "LEAPING_LEGS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "LEAPING_LEGS2",
+        "copy-from": "LEAPING_LEGS2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "BIRD_LEGS",
+        "copy-from": "BIRD_LEGS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "PAINRESIST_TROGLO",
+        "copy-from": "PAINRESIST_TROGLO",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "STOCKY_TROGLO",
+        "copy-from": "STOCKY_TROGLO",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SAPROPHAGE",
+        "copy-from": "SAPROPHAGE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "GIZZARD",
+        "copy-from": "GIZZARD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "M_DEPENDENT",
+        "copy-from": "M_DEPENDENT",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "GRAZER",
+        "copy-from": "GRAZER",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "EATPOISON",
+        "copy-from": "EATPOISON",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "EATDEAD",
+        "copy-from": "EATDEAD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "BURROW",
+        "copy-from": "BURROW",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "BURROWLARGE",
+        "copy-from": "BURROWLARGE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SABER_TEETH",
+        "copy-from": "SABER_TEETH",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "EATHEALTH",
+        "copy-from": "EATHEALTH",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "TAIL_STING",
+        "copy-from": "TAIL_STING",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "HIBERNATE",
+        "copy-from": "HIBERNATE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "MUT_TOUGH",
+        "copy-from": "MUT_TOUGH",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "MUT_TOUGH2",
+        "copy-from": "MUT_TOUGH2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "MUT_TOUGH3",
+        "copy-from": "MUT_TOUGH3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "MASOCHIST_MED",
+        "copy-from": "MASOCHIST_MED",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "CENOBITE",
+        "copy-from": "CENOBITE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "NOPAIN",
+        "copy-from": "NOPAIN",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "PRED1",
+        "copy-from": "PRED1",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "PRED2",
+        "copy-from": "PRED2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "PRED3",
+        "copy-from": "PRED3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "PRED4",
+        "copy-from": "PRED4",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SAPIOVORE",
+        "copy-from": "SAPIOVORE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "PACK_HUNTER",
+        "copy-from": "PACK_HUNTER",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "M_DEFENDER",
+        "copy-from": "M_DEFENDER",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "WINGS_BIRD",
+        "copy-from": "WINGS_BIRD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "GASTROPOD_FOOT",
+        "copy-from": "GASTROPOD_FOOT",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "GASTROPOD_BALANCE",
+        "copy-from": "GASTROPOD_BALANCE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "MOUSE_EARS",
+        "copy-from": "MOUSE_EARS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "WEB_SPINNER",
+        "copy-from": "WEB_SPINNER",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "WEB_WEAVER",
+        "copy-from": "WEB_WEAVER",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "WEB_RAPPEL",
+        "copy-from": "WEB_RAPPEL",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "WEB_ROPE",
+        "copy-from": "WEB_ROPE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "LARGE_OK",
+        "copy-from": "LARGE_OK",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "HUGE_OK",
+        "copy-from": "HUGE_OK",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "STR_UP_3",
+        "copy-from": "STR_UP_3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "STR_UP_4",
+        "copy-from": "STR_UP_4",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "STR_ALPHA",
+        "copy-from": "STR_ALPHA",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "DEX_UP_3",
+        "copy-from": "DEX_UP_3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "DEX_UP_4",
+        "copy-from": "DEX_UP_4",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "DEX_ALPHA",
+        "copy-from": "DEX_ALPHA",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "INT_UP_3",
+        "copy-from": "INT_UP_3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "INT_UP_4",
+        "copy-from": "INT_UP_4",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "INT_ALPHA",
+        "copy-from": "INT_ALPHA",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "INT_SLIME",
+        "copy-from": "INT_SLIME",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "PER_UP_3",
+        "copy-from": "PER_UP_3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "PER_UP_4",
+        "copy-from": "PER_UP_4",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "PER_ALPHA",
+        "copy-from": "PER_ALPHA",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "PER_SLIME",
+        "copy-from": "PER_SLIME",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "PER_SLIME_OK",
+        "copy-from": "PER_SLIME_OK",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SLIMEMIND",
+        "copy-from": "SLIMEMIND",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SMALL_OK",
+        "copy-from": "SMALL_OK",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "CRAFTY",
+        "copy-from": "CRAFTY",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "MUT_JUNKIE",
+        "copy-from": "MUT_JUNKIE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "LONG_TONGUE2",
+        "copy-from": "LONG_TONGUE2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "WINGS_BAT",
+        "copy-from": "WINGS_BAT",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "WINGS_BUTTERFLY",
+        "copy-from": "WINGS_BUTTERFLY",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "DEFORMED3",
+        "copy-from": "DEFORMED3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "BEAUTIFUL2",
+        "copy-from": "BEAUTIFUL2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "BEAUTIFUL3",
+        "copy-from": "BEAUTIFUL3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "PERSISTENCE_HUNTER2",
+        "copy-from": "PERSISTENCE_HUNTER2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THIRST3",
+        "copy-from": "THIRST3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "NO_THIRST",
+        "copy-from": "NO_THIRST",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ROT3",
+        "copy-from": "ROT3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "BEAK_PECK",
+        "copy-from": "BEAK_PECK",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "BEAK_HUM",
+        "copy-from": "BEAK_HUM",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "VISCOUS",
+        "copy-from": "VISCOUS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "AMORPHOUS",
+        "copy-from": "AMORPHOUS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SLIMESPAWNER",
+        "copy-from": "SLIMESPAWNER",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "BLOODFEEDER",
+        "copy-from": "BLOODFEEDER",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "VINES3",
+        "copy-from": "VINES3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ROOTS1",
+        "copy-from": "ROOTS1",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ROOTS2",
+        "copy-from": "ROOTS2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ROOTS3",
+        "copy-from": "ROOTS3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "CHLOROMORPH",
+        "copy-from": "CHLOROMORPH",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "TREE_COMMUNION",
+        "copy-from": "TREE_COMMUNION",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "COLDBLOOD4",
+        "copy-from": "COLDBLOOD4",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "INSECT_ARMS",
+        "copy-from": "INSECT_ARMS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "INSECT_ARMS_OK",
+        "copy-from": "INSECT_ARMS_OK",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARACHNID_ARMS",
+        "copy-from": "ARACHNID_ARMS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARACHNID_ARMS_OK",
+        "copy-from": "ARACHNID_ARMS_OK",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SHELL2",
+        "copy-from": "SHELL2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SHELL3",
+        "copy-from": "SHELL3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "LEG_TENT_BRACE",
+        "copy-from": "LEG_TENT_BRACE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SCUTTLE",
+        "copy-from": "SCUTTLE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_LIZARD",
+        "copy-from": "THRESH_LIZARD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_GASTROPOD",
+        "copy-from": "THRESH_GASTROPOD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_BIRD",
+        "copy-from": "THRESH_BIRD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_FISH",
+        "copy-from": "THRESH_FISH",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_BEAST",
+        "copy-from": "THRESH_BEAST",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_FELINE",
+        "copy-from": "THRESH_FELINE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_LUPINE",
+        "copy-from": "THRESH_LUPINE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_URSINE",
+        "copy-from": "THRESH_URSINE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_CATTLE",
+        "copy-from": "THRESH_CATTLE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_INSECT",
+        "copy-from": "THRESH_INSECT",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_PLANT",
+        "copy-from": "THRESH_PLANT",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_SLIME",
+        "copy-from": "THRESH_SLIME",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_TROGLOBITE",
+        "copy-from": "THRESH_TROGLOBITE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_CEPHALOPOD",
+        "copy-from": "THRESH_CEPHALOPOD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_SPIDER",
+        "copy-from": "THRESH_SPIDER",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_RAT",
+        "copy-from": "THRESH_RAT",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_MEDICAL",
+        "copy-from": "THRESH_MEDICAL",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_ALPHA",
+        "copy-from": "THRESH_ALPHA",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_ELFA",
+        "copy-from": "THRESH_ELFA",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_CHIMERA",
+        "copy-from": "THRESH_CHIMERA",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_RAPTOR",
+        "copy-from": "THRESH_RAPTOR",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_BATRACHIAN",
+        "copy-from": "THRESH_BATRACHIAN",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_MOUSE",
+        "copy-from": "THRESH_MOUSE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_MARLOSS",
+        "copy-from": "THRESH_MARLOSS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_MYCUS",
+        "copy-from": "THRESH_MYCUS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_CRUSTACEAN",
+        "copy-from": "THRESH_CRUSTACEAN",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_CHIROPTERAN",
+        "copy-from": "THRESH_CHIROPTERAN",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ACIDPROOF",
+        "copy-from": "ACIDPROOF",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ACIDBLOOD",
+        "copy-from": "ACIDBLOOD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "AMPHIBIAN",
+        "copy-from": "AMPHIBIAN",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SEESLEEP",
+        "copy-from": "SEESLEEP",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "WATERSLEEP",
+        "copy-from": "WATERSLEEP",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "TOXICFLESH",
+        "copy-from": "TOXICFLESH",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "FRESHWATEROSMOSIS",
+        "copy-from": "FRESHWATEROSMOSIS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SHARKTEETH",
+        "copy-from": "SHARKTEETH",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "HALLUCINATION",
+        "copy-from": "HALLUCINATION",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "BEE",
+        "copy-from": "BEE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_RABBIT",
+        "copy-from": "THRESH_RABBIT",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "NUMB",
+        "copy-from": "NUMB",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "FELINE_FLEXIBILITY",
+        "copy-from": "FELINE_FLEXIBILITY",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "CARNIVORE_FAKE",
+        "copy-from": "CARNIVORE_FAKE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "TOUGH_MEDICAL",
+        "copy-from": "TOUGH_MEDICAL",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "TOUGH2_MEDICAL",
+        "copy-from": "TOUGH2_MEDICAL",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "STRONGER_RESISTCHILL",
+        "copy-from": "STRONGER_RESISTCHILL",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "STRONGER_RESISTWARM",
+        "copy-from": "STRONGER_RESISTWARM",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "CAMO2",
+        "copy-from": "CAMO2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "CEPH_MIND",
+        "copy-from": "CEPH_MIND",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "RESISTCHILL_RESISTWARM",
+        "copy-from": "RESISTCHILL_RESISTWARM",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ALPHA_COMPLEX",
+        "copy-from": "ALPHA_COMPLEX",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "FANGS_VAMPIRE",
+        "copy-from": "FANGS_VAMPIRE",
+        "threshreq": [],
+        "threshold": false
+    }
+]

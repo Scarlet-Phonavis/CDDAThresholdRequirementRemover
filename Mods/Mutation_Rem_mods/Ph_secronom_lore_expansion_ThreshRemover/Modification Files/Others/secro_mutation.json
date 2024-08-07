@@ -1,0 +1,58 @@
+[
+    {
+        "type": "mutation",
+        "id": "THRESH_SECRONOM_EX",
+        "copy-from": "THRESH_SECRONOM_EX",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SECRO_TENDRIL_THICK_THRESHOLD",
+        "copy-from": "SECRO_TENDRIL_THICK_THRESHOLD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SECRO_TENDRIL_TENT_THRESHOLD",
+        "copy-from": "SECRO_TENDRIL_TENT_THRESHOLD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SECRO_BLADE_SHARP_THRESHOLD",
+        "copy-from": "SECRO_BLADE_SHARP_THRESHOLD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SECRO_BLADE_SERRATED_THRESHOLD",
+        "copy-from": "SECRO_BLADE_SERRATED_THRESHOLD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SECRO_LICKER_DEF_THRESHOLD",
+        "copy-from": "SECRO_LICKER_DEF_THRESHOLD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SECRO_LICKER_ATK_THRESHOLD",
+        "copy-from": "SECRO_LICKER_ATK_THRESHOLD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_SECRONOM_FLESH",
+        "copy-from": "THRESH_SECRONOM_FLESH",
+        "threshreq": [],
+        "threshold": false
+    }
+]

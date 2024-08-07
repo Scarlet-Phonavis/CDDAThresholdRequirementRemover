@@ -1,0 +1,44 @@
+[
+    {
+        "type": "mutation",
+        "id": "THRESH_IERDE",
+        "copy-from": "THRESH_IERDE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_ARVORE",
+        "copy-from": "THRESH_ARVORE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_UNDINE",
+        "copy-from": "THRESH_UNDINE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_SALAMANDER",
+        "copy-from": "THRESH_SALAMANDER",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_SYLPH",
+        "copy-from": "THRESH_SYLPH",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_HOMULLUS",
+        "copy-from": "THRESH_HOMULLUS",
+        "threshreq": [],
+        "threshold": false
+    }
+]

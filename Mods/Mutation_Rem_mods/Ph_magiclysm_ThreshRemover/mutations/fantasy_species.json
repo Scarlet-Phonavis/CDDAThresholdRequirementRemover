@@ -1,0 +1,142 @@
+[
+    {
+        "type": "mutation",
+        "id": "THRESH_SPECIES_DWARF",
+        "copy-from": "THRESH_SPECIES_DWARF",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_SPECIES_ELF",
+        "copy-from": "THRESH_SPECIES_ELF",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_SPECIES_GOBLIN",
+        "copy-from": "THRESH_SPECIES_GOBLIN",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_SPECIES_LIZARDFOLK",
+        "copy-from": "THRESH_SPECIES_LIZARDFOLK",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_SPECIES_RAVENFOLK",
+        "copy-from": "THRESH_SPECIES_RAVENFOLK",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "DWARVEN_BUILD",
+        "copy-from": "DWARVEN_BUILD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "BORN_ARTISAN",
+        "copy-from": "BORN_ARTISAN",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "DARKSIGHT",
+        "copy-from": "DARKSIGHT",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ELVEN_BUILD",
+        "copy-from": "ELVEN_BUILD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ELVEN_BEAUTY",
+        "copy-from": "ELVEN_BEAUTY",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ELVEN_HEARING",
+        "copy-from": "ELVEN_HEARING",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ELVEN_SLEEP",
+        "copy-from": "ELVEN_SLEEP",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "GOBLIN_BUILD",
+        "copy-from": "GOBLIN_BUILD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "NOCTURNAL",
+        "copy-from": "NOCTURNAL",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "LIZARDFOLK_BUILD",
+        "copy-from": "LIZARDFOLK_BUILD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "COLDBLOOD4_LIZ",
+        "copy-from": "COLDBLOOD4_LIZ",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "PRED_LIZ",
+        "copy-from": "PRED_LIZ",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "RAVENFOLK_BUILD",
+        "copy-from": "RAVENFOLK_BUILD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "RAVENFOLK_LEGS",
+        "copy-from": "RAVENFOLK_LEGS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "BEAK_RAVEN",
+        "copy-from": "BEAK_RAVEN",
+        "threshreq": [],
+        "threshold": false
+    }
+]

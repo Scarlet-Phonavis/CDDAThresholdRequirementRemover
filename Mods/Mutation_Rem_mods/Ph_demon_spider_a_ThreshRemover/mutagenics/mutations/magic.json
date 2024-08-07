@@ -1,0 +1,16 @@
+[
+    {
+        "type": "mutation",
+        "id": "THRESH_MAGIC",
+        "copy-from": "THRESH_MAGIC",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "MANA_REGEN3",
+        "copy-from": "MANA_REGEN3",
+        "threshreq": [],
+        "threshold": false
+    }
+]

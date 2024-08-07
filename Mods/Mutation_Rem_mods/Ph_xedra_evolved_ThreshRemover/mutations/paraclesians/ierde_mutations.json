@@ -1,0 +1,72 @@
+[
+    {
+        "type": "mutation",
+        "id": "IERDE_SKIN_3",
+        "copy-from": "IERDE_SKIN_3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "IERDE_CARDIO3",
+        "copy-from": "IERDE_CARDIO3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "IERDE_STOP_BLEEDING",
+        "copy-from": "IERDE_STOP_BLEEDING",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "IERDE_STR_BONUS_3",
+        "copy-from": "IERDE_STR_BONUS_3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "IERDE_STR_BONUS_4",
+        "copy-from": "IERDE_STR_BONUS_4",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "IERDE_FEEL_NO_PAIN",
+        "copy-from": "IERDE_FEEL_NO_PAIN",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "IERDE_NO_DISEASE_OR_PARA",
+        "copy-from": "IERDE_NO_DISEASE_OR_PARA",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "IERDE_NO_MIND_PROBLEMS",
+        "copy-from": "IERDE_NO_MIND_PROBLEMS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "IERDE_TUNNEL_TRANSLOCATION",
+        "copy-from": "IERDE_TUNNEL_TRANSLOCATION",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "IERDE_STONE_FORM",
+        "copy-from": "IERDE_STONE_FORM",
+        "threshreq": [],
+        "threshold": false
+    }
+]

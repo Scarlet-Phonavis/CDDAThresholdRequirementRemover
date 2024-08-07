@@ -1,0 +1,9 @@
+[
+    {
+        "type": "mutation",
+        "id": "THRESH_SERAPHIC_SIDE_EFFECTS",
+        "copy-from": "THRESH_SERAPHIC_SIDE_EFFECTS",
+        "threshreq": [],
+        "threshold": false
+    }
+]

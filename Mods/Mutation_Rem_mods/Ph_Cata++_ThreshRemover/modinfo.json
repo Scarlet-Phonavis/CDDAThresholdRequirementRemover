@@ -1,0 +1,16 @@
+[
+    {
+        "type": "MOD_INFO",
+        "id": "Ph_Cata++_ThreshRemover",
+        "name": "ThreshRem_<color_light_green>Cataclysm++</color>",
+        "authors": [
+            "Scarlet",
+            "PythonInterpreter"
+        ],
+        "description": "Generated via script on 2024-08-04 16:57:04.150937 for mod <color_light_green>Cataclysm++</color>",
+        "category": "rebalance",
+        "dependencies": [
+            "Cata++"
+        ]
+    }
+]

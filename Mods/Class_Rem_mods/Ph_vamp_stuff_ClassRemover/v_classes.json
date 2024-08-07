@@ -1,0 +1,20 @@
+[
+    {
+        "type": "mutation",
+        "id": "VAMP_MANA_spellcaster",
+        "copy-from": "VAMP_MANA_spellcaster",
+        "cancels": []
+    },
+    {
+        "type": "mutation",
+        "id": "VAMP_ELEM_spellcaster",
+        "copy-from": "VAMP_ELEM_spellcaster",
+        "cancels": []
+    },
+    {
+        "type": "mutation",
+        "id": "VAMP_BLOOD_spellcaster",
+        "copy-from": "VAMP_BLOOD_spellcaster",
+        "cancels": []
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "type": "mutation",
+        "id": "SALAMANDER_SKIN_3",
+        "copy-from": "SALAMANDER_SKIN_3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SALAMANDER_SLEEP_LESS3",
+        "copy-from": "SALAMANDER_SLEEP_LESS3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SALAMANDER_FIRE_IMMUNE",
+        "copy-from": "SALAMANDER_FIRE_IMMUNE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SALAMANDER_FLY_IN_FIRE_SPELL",
+        "copy-from": "SALAMANDER_FLY_IN_FIRE_SPELL",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SALAMANDER_MANA_BONUS",
+        "copy-from": "SALAMANDER_MANA_BONUS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SALAMANDER_FAST_CAST",
+        "copy-from": "SALAMANDER_FAST_CAST",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SALAMANDER_SUMMON_WINGS",
+        "copy-from": "SALAMANDER_SUMMON_WINGS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SALAMANDER_PREVENT_DEATH",
+        "copy-from": "SALAMANDER_PREVENT_DEATH",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SALAMANDER_FLAME_IMMUNITY_ALLY",
+        "copy-from": "SALAMANDER_FLAME_IMMUNITY_ALLY",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SALAMANDER_EXPLOSION_AND_HEAL",
+        "copy-from": "SALAMANDER_EXPLOSION_AND_HEAL",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SALAMANDER_SMOKE_FORM",
+        "copy-from": "SALAMANDER_SMOKE_FORM",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SALAMANDER_SMOKE_FORM_APPEARANCE",
+        "copy-from": "SALAMANDER_SMOKE_FORM_APPEARANCE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SALAMANDER_SMOKE_FORM_ASCEND",
+        "copy-from": "SALAMANDER_SMOKE_FORM_ASCEND",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SALAMANDER_RADIATION_IMMUNE",
+        "copy-from": "SALAMANDER_RADIATION_IMMUNE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SALAMANDER_BERSERK_STANCE",
+        "copy-from": "SALAMANDER_BERSERK_STANCE",
+        "threshreq": [],
+        "threshold": false
+    }
+]

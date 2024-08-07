@@ -1,0 +1,30 @@
+[
+    {
+        "type": "mutation",
+        "id": "EYES_INSECT_2",
+        "copy-from": "EYES_INSECT_2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "GASTROPOD_FOOT",
+        "copy-from": "GASTROPOD_FOOT",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "WINGS_BIRD",
+        "copy-from": "WINGS_BIRD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "BIRD_LEGS",
+        "copy-from": "BIRD_LEGS",
+        "threshreq": [],
+        "threshold": false
+    }
+]

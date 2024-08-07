@@ -1,0 +1,72 @@
+[
+    {
+        "type": "mutation",
+        "id": "SYLPH_SKIN_3",
+        "copy-from": "SYLPH_SKIN_3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SLYPH_RESIST_COLD3",
+        "copy-from": "SLYPH_RESIST_COLD3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SYLPH_MASSIVE_LIGHTNING_BLAST",
+        "copy-from": "SYLPH_MASSIVE_LIGHTNING_BLAST",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SYLPH_FAST_CAST2",
+        "copy-from": "SYLPH_FAST_CAST2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SYLPH_FLY_AT_WILL",
+        "copy-from": "SYLPH_FLY_AT_WILL",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SYLPH_WIND_TRANSLOCATION",
+        "copy-from": "SYLPH_WIND_TRANSLOCATION",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SYLPH_CLOUD_FORM",
+        "copy-from": "SYLPH_CLOUD_FORM",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SYLPH_CLOUD_FORM_APPEARANCE",
+        "copy-from": "SYLPH_CLOUD_FORM_APPEARANCE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SYLPH_CANNOT_BE_SLOWED_OR_STOPPED",
+        "copy-from": "SYLPH_CANNOT_BE_SLOWED_OR_STOPPED",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SYLPH_PAIN_DOESNT_AFFECT_DEX_SPEED",
+        "copy-from": "SYLPH_PAIN_DOESNT_AFFECT_DEX_SPEED",
+        "threshreq": [],
+        "threshold": false
+    }
+]

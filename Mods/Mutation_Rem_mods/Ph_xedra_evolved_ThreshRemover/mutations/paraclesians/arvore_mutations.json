@@ -1,0 +1,135 @@
+[
+    {
+        "type": "mutation",
+        "id": "ARVORE_SKIN_3",
+        "copy-from": "ARVORE_SKIN_3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARVORE_CAUSE_DECAY",
+        "copy-from": "ARVORE_CAUSE_DECAY",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARVORE_FOREST_TRANSLOCATION",
+        "copy-from": "ARVORE_FOREST_TRANSLOCATION",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARVORE_TURN_INTO_TREE",
+        "copy-from": "ARVORE_TURN_INTO_TREE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARVORE_PERENNIAL_REBIRTH",
+        "copy-from": "ARVORE_PERENNIAL_REBIRTH",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARVORE_PERENNIAL_REBIRTH_CASTED",
+        "copy-from": "ARVORE_PERENNIAL_REBIRTH_CASTED",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARVORE_SUN_FOODS",
+        "copy-from": "ARVORE_SUN_FOODS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARVORE_IGNORE_WINTER_CHILL",
+        "copy-from": "ARVORE_IGNORE_WINTER_CHILL",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARVORE_BLOOD_2",
+        "copy-from": "ARVORE_BLOOD_2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARVORE_BLOOD_3",
+        "copy-from": "ARVORE_BLOOD_3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARVORE_BLOOD_4",
+        "copy-from": "ARVORE_BLOOD_4",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARVORE_VINES",
+        "copy-from": "ARVORE_VINES",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARVORE_MIND_CONTROL_POLLEN",
+        "copy-from": "ARVORE_MIND_CONTROL_POLLEN",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARVORE_MIND_CONTROL_POLLEN_ON",
+        "copy-from": "ARVORE_MIND_CONTROL_POLLEN_ON",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARVORE_HEAL_LIMB_REGEN",
+        "copy-from": "ARVORE_HEAL_LIMB_REGEN",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARVORE_TREE_FORM",
+        "copy-from": "ARVORE_TREE_FORM",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARVORE_TREE_FORM_TRAITS",
+        "copy-from": "ARVORE_TREE_FORM_TRAITS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARVORE_SUN_MANA_BONUS",
+        "copy-from": "ARVORE_SUN_MANA_BONUS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARVORE_SUN_POWER_MANA_STATS",
+        "copy-from": "ARVORE_SUN_POWER_MANA_STATS",
+        "threshreq": [],
+        "threshold": false
+    }
+]

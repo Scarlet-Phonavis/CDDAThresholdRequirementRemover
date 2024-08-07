@@ -1,0 +1,44 @@
+[
+    {
+        "type": "mutation",
+        "id": "MILKABLE",
+        "copy-from": "MILKABLE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "OVIPAROUS_LIZARD",
+        "copy-from": "OVIPAROUS_LIZARD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "OVIPAROUS_AVIAN",
+        "copy-from": "OVIPAROUS_AVIAN",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "OVIPAROUS_Fish",
+        "copy-from": "OVIPAROUS_Fish",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "OVIPAROUS_Spider",
+        "copy-from": "OVIPAROUS_Spider",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "OVIPAROUS_Plant",
+        "copy-from": "OVIPAROUS_Plant",
+        "threshreq": [],
+        "threshold": false
+    }
+]

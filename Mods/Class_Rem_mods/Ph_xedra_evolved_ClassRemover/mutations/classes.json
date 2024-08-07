@@ -1,0 +1,32 @@
+[
+    {
+        "type": "mutation",
+        "id": "DREAMER",
+        "copy-from": "DREAMER",
+        "cancels": []
+    },
+    {
+        "type": "mutation",
+        "id": "EATER",
+        "copy-from": "EATER",
+        "cancels": []
+    },
+    {
+        "type": "mutation",
+        "id": "DREAMSMITH",
+        "copy-from": "DREAMSMITH",
+        "cancels": []
+    },
+    {
+        "type": "mutation",
+        "id": "INVENTOR",
+        "copy-from": "INVENTOR",
+        "cancels": []
+    },
+    {
+        "type": "mutation",
+        "id": "HEDGE_MAGIC",
+        "copy-from": "HEDGE_MAGIC",
+        "cancels": []
+    }
+]

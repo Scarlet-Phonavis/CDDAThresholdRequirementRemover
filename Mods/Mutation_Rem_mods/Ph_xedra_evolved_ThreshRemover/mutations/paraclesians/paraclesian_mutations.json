@@ -1,0 +1,30 @@
+[
+    {
+        "type": "mutation",
+        "id": "PARACLESIAN_STR_DEX_2",
+        "copy-from": "PARACLESIAN_STR_DEX_2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "PARACLESIAN_INT_PER_2",
+        "copy-from": "PARACLESIAN_INT_PER_2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "PARACLESIAN_FAE_SIGHT_2",
+        "copy-from": "PARACLESIAN_FAE_SIGHT_2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "PARACLESIAN_MAKE_GOSSAMER",
+        "copy-from": "PARACLESIAN_MAKE_GOSSAMER",
+        "threshreq": [],
+        "threshold": false
+    }
+]

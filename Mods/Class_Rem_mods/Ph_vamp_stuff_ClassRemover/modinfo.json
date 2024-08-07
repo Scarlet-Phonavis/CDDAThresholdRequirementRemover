@@ -1,0 +1,16 @@
+[
+    {
+        "type": "MOD_INFO",
+        "id": "Ph_vamp_stuff_ClassRemover",
+        "name": "ClassRem_Vampiric Stuff",
+        "authors": [
+            "Scarlet",
+            "PythonInterpreter"
+        ],
+        "description": "Generated via script on 2024-08-07 15:06:42.979472 for mod Vampiric Stuff",
+        "category": "rebalance",
+        "dependencies": [
+            "vamp_stuff"
+        ]
+    }
+]
