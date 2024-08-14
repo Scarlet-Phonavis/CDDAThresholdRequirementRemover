@@ -1,0 +1,128 @@
+[
+    {
+        "type": "mutation",
+        "id": "SENTINEL_PERK_STR_3",
+        "copy-from": "SENTINEL_PERK_STR_3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SENTINEL_STAT_STR_3",
+        "copy-from": "SENTINEL_STAT_STR_3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SENTINEL_STAT_STR_4",
+        "copy-from": "SENTINEL_STAT_STR_4",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SENTINEL_STAT_STR_5",
+        "copy-from": "SENTINEL_STAT_STR_5",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SENTINEL_PERK_DEX_3",
+        "copy-from": "SENTINEL_PERK_DEX_3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SENTINEL_STAT_DEX_3",
+        "copy-from": "SENTINEL_STAT_DEX_3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SENTINEL_STAT_DEX_4",
+        "copy-from": "SENTINEL_STAT_DEX_4",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SENTINEL_STAT_DEX_5",
+        "copy-from": "SENTINEL_STAT_DEX_5",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SENTINEL_PERK_INT_3",
+        "copy-from": "SENTINEL_PERK_INT_3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SENTINEL_STAT_INT_3",
+        "copy-from": "SENTINEL_STAT_INT_3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SENTINEL_STAT_INT_4",
+        "copy-from": "SENTINEL_STAT_INT_4",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SENTINEL_STAT_INT_5",
+        "copy-from": "SENTINEL_STAT_INT_5",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SENTINEL_PERK_PER_3",
+        "copy-from": "SENTINEL_PERK_PER_3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SENTINEL_STAT_PER_3",
+        "copy-from": "SENTINEL_STAT_PER_3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SENTINEL_STAT_PER_4",
+        "copy-from": "SENTINEL_STAT_PER_4",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SENTINEL_STAT_PER_5",
+        "copy-from": "SENTINEL_STAT_PER_5",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SENTINEL_PEAK_PHYS",
+        "copy-from": "SENTINEL_PEAK_PHYS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SENTINEL_PEAK_MENT",
+        "copy-from": "SENTINEL_PEAK_MENT",
+        "threshreq": [],
+        "threshold": false
+    }
+]

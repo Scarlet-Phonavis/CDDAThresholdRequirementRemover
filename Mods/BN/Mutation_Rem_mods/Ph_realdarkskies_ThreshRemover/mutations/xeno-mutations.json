@@ -1,0 +1,30 @@
+[
+    {
+        "type": "mutation",
+        "id": "THRESH_XENOID",
+        "copy-from": "THRESH_XENOID",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "XENO_REGENERATION",
+        "copy-from": "XENO_REGENERATION",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "XENO_BIOLOGY",
+        "copy-from": "XENO_BIOLOGY",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "XENO_SOCIOLOGY",
+        "copy-from": "XENO_SOCIOLOGY",
+        "threshreq": [],
+        "threshold": false
+    }
+]

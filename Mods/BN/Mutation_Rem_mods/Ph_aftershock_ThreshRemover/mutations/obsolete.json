@@ -1,0 +1,44 @@
+[
+    {
+        "type": "mutation",
+        "id": "MASTODON_FUR",
+        "copy-from": "MASTODON_FUR",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "MUT_TANK",
+        "copy-from": "MUT_TANK",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "MUT_TANK2",
+        "copy-from": "MUT_TANK2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "MUT_TANK3",
+        "copy-from": "MUT_TANK3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ELEPHANTINE_OK",
+        "copy-from": "ELEPHANTINE_OK",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "GIGANTIC_OK",
+        "copy-from": "GIGANTIC_OK",
+        "threshreq": [],
+        "threshold": false
+    }
+]

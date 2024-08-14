@@ -1,0 +1,16 @@
+[
+    {
+        "type": "mutation",
+        "id": "THRESH_FEVMUTANT",
+        "copy-from": "THRESH_FEVMUTANT",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "INT_FEVMUTANT",
+        "copy-from": "INT_FEVMUTANT",
+        "threshreq": [],
+        "threshold": false
+    }
+]

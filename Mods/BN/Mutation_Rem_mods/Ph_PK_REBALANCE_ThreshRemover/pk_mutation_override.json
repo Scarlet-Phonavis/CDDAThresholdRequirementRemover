@@ -1,0 +1,44 @@
+[
+    {
+        "type": "mutation",
+        "id": "PARKOUR",
+        "copy-from": "PARKOUR",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "GOURMAND",
+        "copy-from": "GOURMAND",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "CHEMIMBALANCE",
+        "copy-from": "CHEMIMBALANCE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "HOARDER",
+        "copy-from": "HOARDER",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SAVANT",
+        "copy-from": "SAVANT",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "PACIFIST",
+        "copy-from": "PACIFIST",
+        "threshreq": [],
+        "threshold": false
+    }
+]

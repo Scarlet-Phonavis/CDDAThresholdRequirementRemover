@@ -1,0 +1,114 @@
+[
+    {
+        "type": "mutation",
+        "id": "THRESH_DRAGONBLOOD",
+        "copy-from": "THRESH_DRAGONBLOOD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SPELL_EMBERS_DRAGONBLOOD",
+        "copy-from": "SPELL_EMBERS_DRAGONBLOOD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SPELL_SUMMONFIEND",
+        "copy-from": "SPELL_SUMMONFIEND",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SPELL_INSTINCT_DRAGONBLOOD",
+        "copy-from": "SPELL_INSTINCT_DRAGONBLOOD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SPELL_HUNT_DRAGONBLOOD",
+        "copy-from": "SPELL_HUNT_DRAGONBLOOD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SPELL_SUMMONWYRM",
+        "copy-from": "SPELL_SUMMONWYRM",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SPELL_BEYOND_DRAGONBLOOD",
+        "copy-from": "SPELL_BEYOND_DRAGONBLOOD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARCANA_DRAGONSCALES",
+        "copy-from": "ARCANA_DRAGONSCALES",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARCANA_TOXINIMMUNE_2",
+        "copy-from": "ARCANA_TOXINIMMUNE_2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARCANA_DRAGONFIRE",
+        "copy-from": "ARCANA_DRAGONFIRE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARCANA_DRAGONWINGS",
+        "copy-from": "ARCANA_DRAGONWINGS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARCANA_DRAGONMUZZLE",
+        "copy-from": "ARCANA_DRAGONMUZZLE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARCANA_SCALYLEGS",
+        "copy-from": "ARCANA_SCALYLEGS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARCANA_DRAGONLEGS",
+        "copy-from": "ARCANA_DRAGONLEGS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARCANA_PLATES",
+        "copy-from": "ARCANA_PLATES",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ARCANA_INSTINCT",
+        "copy-from": "ARCANA_INSTINCT",
+        "threshreq": [],
+        "threshold": false
+    }
+]

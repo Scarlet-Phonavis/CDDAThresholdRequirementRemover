@@ -1,0 +1,58 @@
+[
+    {
+        "type": "mutation",
+        "id": "ECDYSIS",
+        "copy-from": "ECDYSIS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "CRAB_CLAW",
+        "copy-from": "CRAB_CLAW",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_CRAB",
+        "copy-from": "THRESH_CRAB",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_SNAKE",
+        "copy-from": "THRESH_SNAKE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_RABBIT",
+        "copy-from": "THRESH_RABBIT",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "FANGS_SNAKE",
+        "copy-from": "FANGS_SNAKE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "TAIL_SNAKE",
+        "copy-from": "TAIL_SNAKE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "DEBUG_SILENT",
+        "copy-from": "DEBUG_SILENT",
+        "threshreq": [],
+        "threshold": false
+    }
+]

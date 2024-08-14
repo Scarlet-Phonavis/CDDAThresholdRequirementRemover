@@ -1,0 +1,149 @@
+[
+    {
+        "type": "mutation",
+        "id": "THRESH_VEIL",
+        "copy-from": "THRESH_VEIL",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SPELL_LOCKPICK2",
+        "copy-from": "SPELL_LOCKPICK2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SPELL_TELEPORT",
+        "copy-from": "SPELL_TELEPORT",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SPELL_PACIFY",
+        "copy-from": "SPELL_PACIFY",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SPELL_CONSECRATE",
+        "copy-from": "SPELL_CONSECRATE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SPELL_AGILE2",
+        "copy-from": "SPELL_AGILE2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SPELL_DAYLIGHT2",
+        "copy-from": "SPELL_DAYLIGHT2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SPELL_DRAINLIFE",
+        "copy-from": "SPELL_DRAINLIFE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SPELL_INVIS",
+        "copy-from": "SPELL_INVIS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SPELL_LIGHTNING2",
+        "copy-from": "SPELL_LIGHTNING2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SPELL_FIRE2",
+        "copy-from": "SPELL_FIRE2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SPELL_LIGHTNINGFIELD",
+        "copy-from": "SPELL_LIGHTNINGFIELD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SPELL_PULSE",
+        "copy-from": "SPELL_PULSE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SPELL_ELECRESIST2",
+        "copy-from": "SPELL_ELECRESIST2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SPELL_FLAMEARMOR2",
+        "copy-from": "SPELL_FLAMEARMOR2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SPELL_FROSTARMOR",
+        "copy-from": "SPELL_FROSTARMOR",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SPELL_PSYSHIELD",
+        "copy-from": "SPELL_PSYSHIELD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SPELL_SUMMONCULUS",
+        "copy-from": "SPELL_SUMMONCULUS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SPELL_SUMMONTHING",
+        "copy-from": "SPELL_SUMMONTHING",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SPELL_BUGS",
+        "copy-from": "SPELL_BUGS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SPELL_SUMMONVORTEX",
+        "copy-from": "SPELL_SUMMONVORTEX",
+        "threshreq": [],
+        "threshold": false
+    }
+]

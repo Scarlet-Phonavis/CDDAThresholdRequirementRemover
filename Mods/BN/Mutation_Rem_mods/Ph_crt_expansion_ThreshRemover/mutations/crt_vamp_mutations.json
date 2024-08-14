@@ -1,0 +1,9 @@
+[
+    {
+        "type": "mutation",
+        "id": "THRESH_VAMP",
+        "copy-from": "THRESH_VAMP",
+        "threshreq": [],
+        "threshold": false
+    }
+]

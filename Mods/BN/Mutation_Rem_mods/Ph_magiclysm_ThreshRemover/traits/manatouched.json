@@ -1,0 +1,65 @@
+[
+    {
+        "type": "mutation",
+        "id": "THRESH_MANA",
+        "copy-from": "THRESH_MANA",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "MANA_CRYST_MANA",
+        "copy-from": "MANA_CRYST_MANA",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "MANA_SEEKER_BOLTS",
+        "copy-from": "MANA_SEEKER_BOLTS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "MANA_SUBTLE_SPELL",
+        "copy-from": "MANA_SUBTLE_SPELL",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "MANA_SILENT_SPELL",
+        "copy-from": "MANA_SILENT_SPELL",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "MANA_LUM",
+        "copy-from": "MANA_LUM",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "MANA_SIPHON_1",
+        "copy-from": "MANA_SIPHON_1",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "MANA_SIPHON_2",
+        "copy-from": "MANA_SIPHON_2",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "MANA_SIPHON_3",
+        "copy-from": "MANA_SIPHON_3",
+        "threshreq": [],
+        "threshold": false
+    }
+]

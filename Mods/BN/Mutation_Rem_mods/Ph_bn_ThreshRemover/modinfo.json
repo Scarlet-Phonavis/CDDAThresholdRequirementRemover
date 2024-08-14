@@ -1,0 +1,16 @@
+[
+    {
+        "type": "MOD_INFO",
+        "id": "Ph_bn_ThreshRemover",
+        "name": "ThreshRem_Bright Nights",
+        "authors": [
+            "Scarlet",
+            "PythonInterpreter"
+        ],
+        "description": "Generated via script on 2024-08-14 13:13:31.055913 for mod Bright Nights",
+        "category": "rebalance",
+        "dependencies": [
+            "bn"
+        ]
+    }
+]

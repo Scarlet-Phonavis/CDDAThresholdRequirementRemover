@@ -1,0 +1,16 @@
+[
+    {
+        "type": "MOD_INFO",
+        "id": "Ph_realdarkskies_ThreshRemover",
+        "name": "ThreshRem_<color_light_blue>Really Dark Skies</color>",
+        "authors": [
+            "Scarlet",
+            "PythonInterpreter"
+        ],
+        "description": "Generated via script on 2024-08-14 13:13:31.055913 for mod <color_light_blue>Really Dark Skies</color>",
+        "category": "rebalance",
+        "dependencies": [
+            "realdarkskies"
+        ]
+    }
+]

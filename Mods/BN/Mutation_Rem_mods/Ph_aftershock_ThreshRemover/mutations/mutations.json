@@ -1,0 +1,72 @@
+[
+    {
+        "type": "mutation",
+        "id": "PrepNet",
+        "copy-from": "PrepNet",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_MASTODON",
+        "copy-from": "THRESH_MASTODON",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "MIGO_HEAT_RESIST",
+        "copy-from": "MIGO_HEAT_RESIST",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ALIEN_INT",
+        "copy-from": "ALIEN_INT",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "OTHERWORLDLY_GRACE",
+        "copy-from": "OTHERWORLDLY_GRACE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "DETACHMENT",
+        "copy-from": "DETACHMENT",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ELDRITCH",
+        "copy-from": "ELDRITCH",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_YUGGOTH",
+        "copy-from": "THRESH_YUGGOTH",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "MIGO_SCENT",
+        "copy-from": "MIGO_SCENT",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "TUSKS_POINTED",
+        "copy-from": "TUSKS_POINTED",
+        "threshreq": [],
+        "threshold": false
+    }
+]

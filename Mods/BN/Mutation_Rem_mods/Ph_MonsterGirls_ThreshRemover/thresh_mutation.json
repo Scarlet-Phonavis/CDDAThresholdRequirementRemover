@@ -1,0 +1,65 @@
+[
+    {
+        "type": "mutation",
+        "id": "THRESH_NEKO",
+        "copy-from": "THRESH_NEKO",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_DOGGIRL",
+        "copy-from": "THRESH_DOGGIRL",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_COWGIRL",
+        "copy-from": "THRESH_COWGIRL",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_BEARGIRL",
+        "copy-from": "THRESH_BEARGIRL",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_MOUSEGIRL",
+        "copy-from": "THRESH_MOUSEGIRL",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_SPIDERGIRL",
+        "copy-from": "THRESH_SPIDERGIRL",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_HARPY",
+        "copy-from": "THRESH_HARPY",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_DRYAD",
+        "copy-from": "THRESH_DRYAD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_SLIMEGIRL",
+        "copy-from": "THRESH_SLIMEGIRL",
+        "threshreq": [],
+        "threshold": false
+    }
+]

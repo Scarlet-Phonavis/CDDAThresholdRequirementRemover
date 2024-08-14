@@ -1,0 +1,9 @@
+[
+    {
+        "type": "mutation",
+        "id": "PSYCHIC_PROJECT",
+        "copy-from": "PSYCHIC_PROJECT",
+        "threshreq": [],
+        "threshold": false
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "type": "mutation",
+        "id": "SHOGGOTH_BUFF_OK",
+        "copy-from": "SHOGGOTH_BUFF_OK",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SHOGGOTH_BUFF",
+        "copy-from": "SHOGGOTH_BUFF",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SHOGGOTH_BODY",
+        "copy-from": "SHOGGOTH_BODY",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SHOGGOTH_BODY_NPC",
+        "copy-from": "SHOGGOTH_BODY_NPC",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SHUFFLING_HORROR",
+        "copy-from": "SHUFFLING_HORROR",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_SHOGGOTH",
+        "copy-from": "THRESH_SHOGGOTH",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_MILK",
+        "copy-from": "THRESH_MILK",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_MAID",
+        "copy-from": "THRESH_MAID",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "MAID_DOJI3",
+        "copy-from": "MAID_DOJI3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "MAID_3",
+        "copy-from": "MAID_3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "MAID_TEKELI",
+        "copy-from": "MAID_TEKELI",
+        "threshreq": [],
+        "threshold": false
+    }
+]

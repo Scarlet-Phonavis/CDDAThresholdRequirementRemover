@@ -1,0 +1,9 @@
+[
+    {
+        "type": "mutation",
+        "id": "THRESH_MAGIC",
+        "copy-from": "THRESH_MAGIC",
+        "threshreq": [],
+        "threshold": false
+    }
+]

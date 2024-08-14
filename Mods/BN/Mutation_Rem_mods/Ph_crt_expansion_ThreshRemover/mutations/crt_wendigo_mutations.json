@@ -1,0 +1,23 @@
+[
+    {
+        "type": "mutation",
+        "id": "THRESH_WENDIGO",
+        "copy-from": "THRESH_WENDIGO",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "NMELD",
+        "copy-from": "NMELD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SLASHERS",
+        "copy-from": "SLASHERS",
+        "threshreq": [],
+        "threshold": false
+    }
+]

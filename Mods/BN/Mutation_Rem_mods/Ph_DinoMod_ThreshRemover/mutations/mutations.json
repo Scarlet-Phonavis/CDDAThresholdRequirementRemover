@@ -1,0 +1,37 @@
+[
+    {
+        "type": "mutation",
+        "id": "THRESH_TYRANT",
+        "copy-from": "THRESH_TYRANT",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_STEGO",
+        "copy-from": "THRESH_STEGO",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THICKSKIN3",
+        "copy-from": "THICKSKIN3",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "TYRANT_TEETH",
+        "copy-from": "TYRANT_TEETH",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "TAIL_HORNED",
+        "copy-from": "TAIL_HORNED",
+        "threshreq": [],
+        "threshold": false
+    }
+]

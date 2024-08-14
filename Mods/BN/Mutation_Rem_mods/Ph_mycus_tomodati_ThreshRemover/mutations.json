@@ -1,0 +1,9 @@
+[
+    {
+        "type": "mutation",
+        "id": "M_IMMUNE",
+        "copy-from": "M_IMMUNE",
+        "threshreq": [],
+        "threshold": false
+    }
+]

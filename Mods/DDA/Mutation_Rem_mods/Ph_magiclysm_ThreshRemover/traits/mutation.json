@@ -1,0 +1,9 @@
+[
+    {
+        "type": "mutation",
+        "id": "MANA_REGEN3",
+        "copy-from": "MANA_REGEN3",
+        "threshreq": [],
+        "threshold": false
+    }
+]

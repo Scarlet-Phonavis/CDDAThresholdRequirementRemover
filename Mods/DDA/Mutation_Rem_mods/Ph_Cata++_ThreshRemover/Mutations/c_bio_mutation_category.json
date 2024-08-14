@@ -1,0 +1,16 @@
+[
+    {
+        "type": "mutation",
+        "id": "THRESH_BIO-WEAPON",
+        "copy-from": "THRESH_BIO-WEAPON",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_SUPER_SOLDIER",
+        "copy-from": "THRESH_SUPER_SOLDIER",
+        "threshreq": [],
+        "threshold": false
+    }
+]

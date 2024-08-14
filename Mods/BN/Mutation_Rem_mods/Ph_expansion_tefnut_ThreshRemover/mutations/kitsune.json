@@ -1,0 +1,65 @@
+[
+    {
+        "type": "mutation",
+        "id": "THRESH_KITSUNE",
+        "copy-from": "THRESH_KITSUNE",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "FOXY",
+        "copy-from": "FOXY",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SMELLY_FOXMUSK",
+        "copy-from": "SMELLY_FOXMUSK",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "KITSUNE_SMARTS",
+        "copy-from": "KITSUNE_SMARTS",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "KITSUNE_WEAK",
+        "copy-from": "KITSUNE_WEAK",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "TAIL_QUAD",
+        "copy-from": "TAIL_QUAD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "TAIL_PENT",
+        "copy-from": "TAIL_PENT",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "TAIL_SEX",
+        "copy-from": "TAIL_SEX",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "FOXSLEEP",
+        "copy-from": "FOXSLEEP",
+        "threshreq": [],
+        "threshold": false
+    }
+]

@@ -98,6 +98,7 @@ for ModFolder in ModFolderList:
 			MODNAME = x.get("name")
 			if type(MODID) != str:
 				MODID = x.get("ident")
+			print("Evaluating " + MODNAME)
 			#print(type(x))
 		
 	JSONLIST = glob.glob("**/*.json", root_dir=CurrentPath, recursive=True)
@@ -105,6 +106,7 @@ for ModFolder in ModFolderList:
 	
 	for y in JSONLIST:
 		WorkingPath = str(CurrentPath + y)
+		print("Valuating Path {0}".format(WorkingPath))
 		workinglist = JsonEvaluator(WorkingPath)
 		if len(workinglist) == 0:
 			#print("No threshold mutations detected in {0}".format(WorkingPath))

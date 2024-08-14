@@ -1,0 +1,16 @@
+[
+    {
+        "type": "mutation",
+        "id": "SHMELD",
+        "copy-from": "SHMELD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "BEAUTIFULVAMP",
+        "copy-from": "BEAUTIFULVAMP",
+        "threshreq": [],
+        "threshold": false
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "type": "mutation",
+        "id": "BIRD_BODY",
+        "copy-from": "BIRD_BODY",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "URSINE_BODY",
+        "copy-from": "URSINE_BODY",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "BOVINE_BODY",
+        "copy-from": "BOVINE_BODY",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "TORT_BODY",
+        "copy-from": "TORT_BODY",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "RAPTOR_BODY",
+        "copy-from": "RAPTOR_BODY",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "PLANT_BODY",
+        "copy-from": "PLANT_BODY",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "CHIMERA_BODY",
+        "copy-from": "CHIMERA_BODY",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "BEAST_BODY",
+        "copy-from": "BEAST_BODY",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "LUPINE_BODY",
+        "copy-from": "LUPINE_BODY",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "FELINE_BODY",
+        "copy-from": "FELINE_BODY",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "FISH_BODY",
+        "copy-from": "FISH_BODY",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "LIZARD_BODY",
+        "copy-from": "LIZARD_BODY",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "RAT_BODY",
+        "copy-from": "RAT_BODY",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SPIDER_BODY",
+        "copy-from": "SPIDER_BODY",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "INSECT_BODY",
+        "copy-from": "INSECT_BODY",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "FLOWER_HEAD",
+        "copy-from": "FLOWER_HEAD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "HOOF_TALON",
+        "copy-from": "HOOF_TALON",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "WATER_GOOD",
+        "copy-from": "WATER_GOOD",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "FUR_SCALES",
+        "copy-from": "FUR_SCALES",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "MUZZLE_CHIMERA",
+        "copy-from": "MUZZLE_CHIMERA",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "RAZOR_TEETH",
+        "copy-from": "RAZOR_TEETH",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "ROOTS1",
+        "copy-from": "ROOTS1",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "SCUTES",
+        "copy-from": "SCUTES",
+        "threshreq": [],
+        "threshold": false
+    },
+    {
+        "type": "mutation",
+        "id": "THRESH_TORTOISE",
+        "copy-from": "THRESH_TORTOISE",
+        "threshreq": [],
+        "threshold": false
+    }
+]
